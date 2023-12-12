@@ -1,2 +1,1 @@
-blade
-The name is{{$name}}
+The name is {{$name}}
